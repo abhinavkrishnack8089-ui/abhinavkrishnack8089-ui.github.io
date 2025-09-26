@@ -27,7 +27,7 @@
   <header class="sticky top-0 z-40 bg-white/80 backdrop-blur border-b border-gray-200">
     <div class="container mx-auto px-6 lg:px-8 py-4 flex items-center justify-between">
       <div class="flex items-center gap-4">
-        <div class="text-lg font-semibold">Abhinavkrishnack</div>
+        <div class="text-lg font-semibold">John</div>
         <nav class="hidden md:flex gap-4 text-sm">
           <a href="#about" class="hover:underline">About</a>
           <a href="#projects" class="hover:underline">Projects</a>
@@ -48,7 +48,7 @@
     <section class="container mx-auto px-6 lg:px-8 py-16 flex flex-col-reverse lg:flex-row items-center gap-12">
       <div class="lg:flex-1">
         <p class="text-sm uppercase text-gray-500 mb-3">Hi, I'm</p>
-        <h1 class="text-4xl md:text-5xl font-bold leading-tight">Abhinavkrishnack — Full‑Stack Developer</h1>
+        <h1 class="text-4xl md:text-5xl font-bold leading-tight">John — Full‑Stack Developer</h1>
 
         <p class="mt-4 text-lg md:text-xl max-w-xl">
           <span class="mr-2">Crafting Web Experiences That Actually Work</span>
@@ -85,7 +85,7 @@
       <div class="grid md:grid-cols-3 gap-8 items-center">
         <div class="md:col-span-2">
           <h2 class="text-2xl font-semibold">The Human Behind the Code</h2>
-          <p class="mt-4 text-gray-700 max-w-2xl">Hey there! I'm Abhinavkrishnack – a passionate full-stack developer who loves turning wild ideas into pixel-perfect reality. Currently crushing my BTech (Class of 2028), but I've been coding since before it was cool to have "developer" in your bio.</p>
+          <p class="mt-4 text-gray-700 max-w-2xl">Hey there! I'm John – a passionate full-stack developer who loves turning wild ideas into pixel-perfect reality. Currently crushing my BTech (Class of 2028), but I've been coding since before it was cool to have "developer" in your bio.</p>
 
           <p class="mt-3 text-gray-700 max-w-2xl">My superpower? Building seamless web experiences that make users go "wow, that just works!" From crafting responsive frontends with React and Vue to architecting robust backends with Python and Django, I speak fluent code in multiple dialects.</p>
 
